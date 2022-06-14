@@ -1,3 +1,5 @@
+<img src="https://media3.giphy.com/media/ZN5okPb395T7G/giphy.gif" height="100%" width="100%"/>
+
 ### Hi there 👋
 
 <!--
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://c.tenor.com/oxTuThicr14AAAAC/one-piece-lu-fei.gif
 -->
