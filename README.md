@@ -1,6 +1,6 @@
 <img src="https://c.tenor.com/oxTuThicr14AAAAC/one-piece-lu-fei.gif" height="100%" width="100%"/>
-
-### Hi there 👋
+<!-- 
+### Hi there 👋 -->
 
 <!--
 **wenxuwan/wenxuwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
