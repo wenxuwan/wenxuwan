@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/oxTuThicr14AAAAC/one-piece-lu-fei.gif" height="100%" width="100%"/>
+<img src="https://pbs.twimg.com/media/F-XS5PuXsAAjJaM?format=jpg&name=large" height="100%" width="100%"/>
 <!-- 
 ### Hi there 👋 -->
 
